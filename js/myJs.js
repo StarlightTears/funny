@@ -1,17 +1,17 @@
 const textConfig = {
   text1: "Hế luu Đồ đáng iêu!",
   text2: "Ngốc đồ có điều này muốn hỏi e nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Do you want hangout with me :))  ._.",
+  text3: "Tối nay rảnh chứ, có gì a qua chơi + bóp dzú đc hem ._.",
   text4:
-    "Nếu e ko trả lời mà thoát ra tức là đồng ý rùi đó nha :v, đi thì đi không đi thì đi",
+    "Nếu e ko trả lời mà thoát ra tức là đồng ý rùi đó nha :v, không oke thì cũng oke",
   text5: "Không thích đi nha :))",
-  text6: "Sợ gì khum đi :))",
-  text7: "Biết vì sao anh thích e khum. :vvvv",
+  text6: "Sợ gì ok luôn :))",
+  text7: "Gửi em 1 vài trò linh tinh nè, nhập các thứ linh tinh đi :vvvv",
   text8: "Gửi thử di <3",
-  text9: "Vì a thấy e thú dzị",
-  text10: "Thế là nhận lời đi chơi rồi nhé",
-  text11: "Đi chơi thôi :DDDDDDDDDDDDD",
-  text12: "Okii lunn <3",
+  text9: "https://sillylibra.com",
+  text10: "Thế là nhận lời rồi nhé",
+  text11: "Tối a qua chơi :DDDDDDDDDDDDD",
+  text12: "Okii lunn <3, Nhấn vô đây coi nè =))",
 };
 
 $(document).ready(function () {
@@ -137,7 +137,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "./iloveu.html";
+            window.location = "https://sillylibra.com/";
           },
         });
       }
