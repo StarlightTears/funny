@@ -1,11 +1,11 @@
 const textConfig = {
   text1: "Hế luu Đồ đáng iêu!",
   text2: "Ngốc đồ có điều này muốn hỏi e nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Tối nay rảnh chứ, có gì a qua chơi + bóp dzú đc hem ._.",
+  text3: "Thứ 3 thu xếp thời gian, đi chơi với a hem ._.",
   text4:
     "Nếu e ko trả lời mà thoát ra tức là đồng ý rùi đó nha :v, không oke thì cũng oke",
   text5: "Không thích đi nha :))",
-  text6: "Sợ gì ok luôn :))",
+  text6: "Đi thì đi không đi thì đi :))",
   text7: "Gửi em 1 vài trò linh tinh nè, nhập các thứ linh tinh đi :vvvv",
   text8: "Gửi thử di <3",
   text9: "https://sillylibra.com",
